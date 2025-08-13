@@ -62,4 +62,3 @@ Developed for **BE 1200: Basic Engineering I – Final Project**, the clock feat
 Electrical & Computer Engineering — Wayne State University  
 🔧 Focus: Mechanical design integration, hardware prototyping, and data-driven projects  
 🌐 [LinkedIn](https://www.linkedin.com/in/abid-ahmad-83bb0527b) 
-
