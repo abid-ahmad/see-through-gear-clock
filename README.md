@@ -61,4 +61,4 @@ Developed for **BE 1200: Basic Engineering I – Final Project**, the clock feat
 **Author:** Abid Ahmad  
 Electrical & Computer Engineering — Wayne State University  
 🔧 Focus: Mechanical design integration, hardware prototyping, and data-driven projects  
-🌐 [LinkedIn](www.linkedin.com/in/-abid-ahmad-) |
+🌐 [LinkedIn](www.linkedin.com/in/abid-ahmad-83bb0527b)
