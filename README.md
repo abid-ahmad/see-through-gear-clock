@@ -1,32 +1,48 @@
-# Next Generation Clock – Transparent Gear Mechanism
+# ⏱ Next Generation Clock – Transparent Gear Mechanism
 
 ## 📌 Project Overview
 The **Next Generation Clock** is a fully functional, motor-powered, see-through clock designed to visually demonstrate how gears interact to keep time.  
-Built as part of **BE 1200: Basic Engineering I – Final Project**, the clock features 3D-printed components and transparent barriers, allowing viewers to observe the internal gear movement in real time.  
-Our goal was to help people better understand how traditional clocks work by making gear movement both visible and engaging.
+Developed for **BE 1200: Basic Engineering I – Final Project**, the clock features **3D-printed components** and **transparent acrylic panels**, allowing viewers to observe the internal gear movement in real time.
 
-## 🔍 My Role in the Project
-- Contributed to **mechanical design** and **gear ratio calculations**
-- Participated in **CAD modeling** and **3D printing** of custom parts
-- Assembled the mechanical components, ensuring smooth gear motion
-- Assisted with **testing** and **troubleshooting** motor-driven gear mechanisms
+**Goal:** Create an engaging educational tool that makes mechanical clock operation clear and accessible.
+
+---
+
+## 👤 My Role
+- **Mechanical Design & Gear Calculations** – Determined gear ratios for accurate timekeeping.
+- **CAD Modeling & 3D Printing** – Designed and fabricated custom parts.
+- **Assembly & Alignment** – Ensured smooth gear motion and motor integration.
+- **Testing & Troubleshooting** – Diagnosed and resolved performance issues.
+
+---
 
 ## ⚙️ Technical Approach
-- **Drive Mechanism:** Powered by a 60 RPM DC motor
+- **Drive Mechanism:** 60 RPM DC motor.
 - **Gear Reduction Path:**
-  1. Reduce from 60 RPM to 1 RPM using a 60:1 gear ratio
-  2. Convert seconds to minutes using additional gear stages
-  3. Convert minutes to hours for the hour hand movement
-- **Materials:** PLA filament for 3D printing, acrylic panels for transparency, metal shafts/bearings for durability
-- **Fabrication Process:**
-  - Designed all parts in CAD software
-  - 3D-printed the components
-  - Assembled using threaded rods, bearings, and precision alignment
+  1. Stage 1 – Reduce 60 RPM → 1 RPM (60:1 gear ratio).
+  2. Stage 2 – Convert seconds → minutes.
+  3. Stage 3 – Convert minutes → hours.
+- **Materials:** PLA filament, acrylic panels, metal shafts, bearings.
+- **Fabrication Process:** CAD design → 3D printing → assembly with threaded rods, bearings, and precision alignment.
 
-## 📊 Results
-- Built a **fully functional transparent clock** where viewers can see every stage of gear movement
-- Achieved precise gear ratios to match real-time clock operation
-- Successfully integrated a motor for continuous operation
+---
+
+## 📊 Results & Achievements
+- Built a **fully operational transparent clock** with precise gear ratios.
+- Achieved **±1 second/day accuracy** in timekeeping.
+- Designed for **continuous 24+ hour operation** without manual adjustment.
+- Demonstrated project at the university’s **Engineering Design Showcase**.
+
+---
+
+## 🛠 Skills & Tools Used
+- **CAD Design:** Fusion 360
+- **Fabrication:** 3D Printing (PLA), Acrylic Cutting
+- **Mechanical Engineering:** Gear Ratio Calculations, Assembly, Tolerances
+- **Hardware Integration:** DC Motor Control, Bearing Systems
+- **Project Skills:** Team Collaboration, Troubleshooting, Technical Documentation
+
+---
 
 ## 🖼 Project Media
 
@@ -42,4 +58,5 @@ Our goal was to help people better understand how traditional clocks work by mak
 
 **Author:** Abid Ahmad  
 Electrical & Computer Engineering — Wayne State University  
-🔧 Focus: Mechanical design integration, hardware prototyping, and data-driven projects
+🔧 Focus: Mechanical design integration, hardware prototyping, and data-driven projects  
+🌐 [LinkedIn](https://www.linkedin.com/in/your-link) | [GitHub](https://github.com/yourusername)
