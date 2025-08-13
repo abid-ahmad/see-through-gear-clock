@@ -31,7 +31,7 @@ Our goal was to help people better understand how traditional clocks work by mak
 ## 🖼 Project Media
 
 ### Poster Presentation
-![Project Poster](poster/pic/next_generation_clock_poster.png)
+![Project Poster](poster/next_generation_clock_poster.png)
 
 ### Device Images
 | Front View | Side View |
