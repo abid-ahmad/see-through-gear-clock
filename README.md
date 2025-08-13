@@ -41,6 +41,8 @@ Developed for **BE 1200: Basic Engineering I – Final Project**, the clock feat
 - **Mechanical Engineering:** Gear Ratio Calculations, Assembly, Tolerances
 - **Hardware Integration:** DC Motor Control, Bearing Systems
 - **Project Skills:** Team Collaboration, Troubleshooting, Technical Documentation
+---
+**Key Skills Gained:** CAD design, 3D printing, gear ratio calculations, hardware integration, technical documentation
 
 ---
 
