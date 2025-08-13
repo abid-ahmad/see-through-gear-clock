@@ -38,13 +38,6 @@ Our goal was to help people better understand how traditional clocks work by mak
 |------------|-----------|
 | ![Front View](images/clock_front.png) | ![Side View](images/clock_side.png) |
 
-## 📂 Repository Structure
-| Folder/File   | Description                                      |
-|---------------|--------------------------------------------------|
-| 📁 `poster/`  | Final project poster in image or PDF format       |
-| 📁 `images/`  | Photos of the assembled clock                     |
-| 📄 `README.md`| Project documentation                             |
-
 ---
 
 **Author:** Abid Ahmad  
