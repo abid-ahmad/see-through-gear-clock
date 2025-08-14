@@ -36,7 +36,7 @@ Developed for **BE 1200: Basic Engineering I – Final Project**, the clock feat
 ---
 
 ## 🛠 Skills & Tools Used
-- **CAD Design:** Fusion 360
+- **CAD Design:** Siemens NX
 - **Fabrication:** 3D Printing (PLA), Acrylic Cutting
 - **Mechanical Engineering:** Gear Ratio Calculations, Assembly, Tolerances
 - **Hardware Integration:** DC Motor Control, Bearing Systems
