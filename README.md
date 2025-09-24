@@ -49,7 +49,7 @@ Developed for **BE 1200: Basic Engineering I – Final Project**, the clock feat
 ## 🖼 Project Media
 
 ### Poster Presentation
-![Project Poster](poster/next_generation_clock_poster.pdf)
+![Project Poster](poster/next_generation_clock_poster.jpg)
 
 ### Device Images
 | Front View | Side View |
