@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 The **Next Generation Clock** is a fully functional, motor-powered, see-through clock designed to visually demonstrate how gears interact to keep time.  
-Developed for **BE 1200: Basic Engineering I – Final Project**, the clock features **3D-printed components** and **transparent acrylic panels**, allowing viewers to observe the internal gear movement in real time.
+Developed for **BE 1200: Basic Engineering I – Final Group Project**, the clock features **3D-printed components** and **transparent acrylic panels**, allowing viewers to observe the internal gear movement in real time.
 
 **Goal:** Create an engaging educational tool that makes mechanical clock operation clear and accessible.
 
